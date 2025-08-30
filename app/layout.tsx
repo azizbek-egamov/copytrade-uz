@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   keywords: "copy trading, forex, trading, uzbekistan, investment, prop trading",
   authors: [{ name: "COPYTRADE.UZ" }],
   viewport: "width=device-width, initial-scale=1",
-    generator: 'v0.app'
+    generator: 'ardentsoft.uz'
 }
 
 export default function RootLayout({
